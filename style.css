@@ -1,4 +1,11 @@
 #button {
-    background-color: purple;
-    color: aquamarine;
+    background-color: black;
+    color: white;
+}
+
+div {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
 }
